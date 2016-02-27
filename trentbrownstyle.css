@@ -1,0 +1,15 @@
+h1 {
+    font-family: apple chancery; font-size: 300%; color: black; background-color: white;
+}
+
+h2 {font-family: georgia;border: 2px solid; padding: 4px; width: 130px; border radius: 5px; -webkit-border-radius:5px; font-size: 130%; color: white;
+
+}
+
+p {font-family: helvetica; width: 400px; color: white;
+
+}
+
+body {background-image: url("background3.gif"); }
+
+C
